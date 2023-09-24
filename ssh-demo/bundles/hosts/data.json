@@ -1,0 +1,12 @@
+{
+    "frontend": {
+      "contributors": [
+        "frontend-dev"
+      ]
+    },
+    "backend": {
+      "contributors": [
+        "backend-dev"
+      ]
+    }
+  }
